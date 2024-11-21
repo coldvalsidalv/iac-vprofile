@@ -10,4 +10,4 @@ variable "clusterName" {
   default     = "kitops-eks"
 }
 
-#Trigger workflow attempt 2
+#Trigger workflow attempt 3
