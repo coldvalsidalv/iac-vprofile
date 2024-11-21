@@ -1,7 +1,7 @@
 variable "region" {
   description = "AWS region"
   type        = string
-  default     = "us-east-2"
+  default     = "eu-north-1"
 }
 
 variable "clusterName" {
@@ -9,3 +9,5 @@ variable "clusterName" {
   type        = string
   default     = "kitops-eks"
 }
+
+#Trigger workflow #2
